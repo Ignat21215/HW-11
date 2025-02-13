@@ -16,7 +16,7 @@ button {
     margin: 25px;
     
 }
-div {
+.pane {
     margin: 50px 45px;
     border-radius: 10px;
     border-color: rgb(0, 0, 0);
